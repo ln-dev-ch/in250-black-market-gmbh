@@ -13,7 +13,7 @@ Links to the most relevant documentations:
 - [x] Repository setup - Clone repo and start work
 - [x] Documentation - Reorg of repo and creation of doc
 - [x] Main page - Create main readme
-- [ ] Ignorance
+- [x] Ignorance
 - [ ] Automation
 - [ ] Strategy
 - [ ] Conflict
