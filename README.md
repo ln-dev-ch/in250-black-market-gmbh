@@ -22,4 +22,5 @@ Links to the most relevant documentations:
 - [x] Strategy - Add strategy and set branch Protection, set v1.0 Tag
 - [x] Conflict - Create a conflict and resolve it
 - [x] Github Pages - Adjust web-page and host it using Github Pages
-- [ ] Finish
+- [x] Finish - Create securiy.md and enable dependabot, create pull-request to upsteam repro
+
