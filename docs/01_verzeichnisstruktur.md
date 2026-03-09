@@ -29,3 +29,7 @@ Go to [src](../src/)
 ### Web
 Contains **current** web related components such as HTML-files.  
 Go to [web](../web/)
+
+### .Github
+Contains configuration files for github actions.
+Go to [.github](../.github/)

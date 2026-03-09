@@ -13,8 +13,8 @@ Links to the most relevant documentations:
 - [x] Repository setup - Clone repo and start work
 - [x] Documentation - Reorg of repo and creation of doc
 - [x] Main page - Create main readme
-- [x] Ignorance
-- [ ] Automation
+- [x] Ignorance - Ignore secrets
+- [x] Automation - Add github actions for stale issues and PRs
 - [ ] Strategy
 - [ ] Conflict
 - [ ] Github Pages
