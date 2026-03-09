@@ -8,6 +8,7 @@ Here you can find all of our software projects.
 Links to the most relevant documentations:  
 [Software documentation](./docs/00_projectdoc.md)  
 [Repository structure](./docs/01_verzeichnisstruktur.md)
+[Branch strategy](./docs/02_branch_strategie.md)
 
 ### Current Tasks:
 - [x] Repository setup - Clone repo and start work
@@ -15,7 +16,7 @@ Links to the most relevant documentations:
 - [x] Main page - Create main readme
 - [x] Ignorance - Ignore secrets
 - [x] Automation - Add github actions for stale issues and PRs
-- [ ] Strategy
+- [x] Strategy - Add strategy and set branch Protection, set v1.0 Tag
 - [ ] Conflict
 - [ ] Github Pages
 - [ ] Finish
